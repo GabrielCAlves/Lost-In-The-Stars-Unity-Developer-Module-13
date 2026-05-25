@@ -1,5 +1,5 @@
 🇬🇧
-Details:
+# Details:
 - New project with a main screen flow structure already assembled;
 - The project contains:
 ▪ Imported provided assets, represented in a level scene (SCN_Level01);
@@ -8,7 +8,7 @@ Details:
 ▪ Within Level 01, there is a button that returns to the main menu.
 
 🇧🇷
-Detalhes:
+# Detalhes:
 - Novo projeto com uma estrutura principal de fluxo de telas montada;
 - O projeto contém:
   ▪ Assets fornecidos importados, representados em uma cena do level (SCN_Level01);
